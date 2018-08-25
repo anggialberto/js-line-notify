@@ -16,7 +16,7 @@
 
 ## Installation
 
-Installation is simple. It can be installed from NPM from github:
+Installation is simple.
 ```npm
 $ git clone https://github.com/albertoanggi/js-line-notify
 $ npm install
