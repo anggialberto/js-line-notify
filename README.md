@@ -39,7 +39,15 @@ Example : sendText()
 
 ```javascript
 notify.sendText("Halo Enji");
-or
-notify.sendText();
+```
+
+Example : sendImage()
+
+```javascript
+notify.sendImage("https://scdn.line-apps.com/n/line_notice/img/og_160829/og_fb.png");
+```
+
+```javascript
+notify.sendImage("default_image.png");
 ```
 
