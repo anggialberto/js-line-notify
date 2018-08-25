@@ -44,10 +44,12 @@ notify.sendText("Halo Enji");
 Example : sendImage()
 
 ```javascript
+//Image from local computer
 notify.sendImage("https://scdn.line-apps.com/n/line_notice/img/og_160829/og_fb.png");
 ```
 
 ```javascript
+//Image from url (HTTPS/HTTP)
 notify.sendImage("default_image.png");
 ```
 
