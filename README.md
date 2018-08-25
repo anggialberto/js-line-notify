@@ -24,3 +24,6 @@ $ npm install https://github.com/albertoanggi/js-line-notify
 ## Generate LINE Notify Token
 
 [https://notify-bot.line.me/my/](https://notify-bot.line.me/my/)
+
+## Usage
+
