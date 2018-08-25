@@ -61,4 +61,4 @@ notify.sendImage("https://scdn.line-apps.com/n/line_notice/img/og_160829/og_fb.p
 ```javascript
 notify.sendSticker(2, 1);
 ```
-[https://devdocs.line.me/files/sticker_list.pdf/](Sticker List)
+[Sticker List](https://devdocs.line.me/files/sticker_list.pdf/)
