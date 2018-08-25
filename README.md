@@ -35,13 +35,13 @@ const ACCESS_TOKEN = "TOKEN_HERE!";
 const notify = new LineNotify(`${ACCESS_TOKEN}`);
 ```
 
-***Example : sendText()***
+Example : sendText()
 
 ```javascript
 notify.sendText("Halo Enji");
 ```
 
-***Example : sendImage()***
+Example : sendImage()
 
 ```javascript
 notify.sendImage("https://scdn.line-apps.com/n/line_notice/img/og_160829/og_fb.png");
@@ -51,9 +51,9 @@ notify.sendImage("https://scdn.line-apps.com/n/line_notice/img/og_160829/og_fb.p
 notify.sendImage("default_image.png");
 ```
 
-***Example : sendText()***
+Example : sendSticker()
 
 ```javascript
-notify.sendText("Halo Enji");
+notify.sendSticker(2, 1);
 ```
 
