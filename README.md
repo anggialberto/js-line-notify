@@ -35,13 +35,15 @@ const ACCESS_TOKEN = "TOKEN_HERE!";
 const notify = new LineNotify(`${ACCESS_TOKEN}`);
 ```
 
-Example : sendText()
+## Example
+
+***sendText()***
 
 ```javascript
 notify.sendText("Halo Enji");
 ```
 
-Example : sendImage()
+***sendImage()***
 
 ```javascript
 //Image from local computer
@@ -53,7 +55,7 @@ notify.sendImage("default_image.png");
 notify.sendImage("https://scdn.line-apps.com/n/line_notice/img/og_160829/og_fb.png");
 ```
 
-Example : sendSticker()
+***sendSticker()***
 
 ```javascript
 notify.sendSticker(2, 1);
