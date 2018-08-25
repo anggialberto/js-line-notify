@@ -18,7 +18,7 @@
 
 Installation is simple. It can be installed from NPM from github:
 ```npm
-$ npm install https://github.com/albertoanggi/js-line-notify
+$ npm install https://github.com/albertoanggi/js-line-notify (Coming soon)
 ```
 
 ## Generate LINE Notify Token
@@ -34,3 +34,12 @@ const LineNotify = require("./src/client");
 const ACCESS_TOKEN = "TOKEN_HERE!";
 const notify = new LineNotify(`${ACCESS_TOKEN}`);
 ```
+
+Example : sendText()
+
+```javascript
+notify.sendText("Halo Enji");
+or
+notify.sendText();
+```
+
