@@ -62,3 +62,15 @@ notify.sendImage("https://scdn.line-apps.com/n/line_notice/img/og_160829/og_fb.p
 notify.sendSticker(2, 1);
 ```
 You can see sticker list in [here](https://devdocs.line.me/files/sticker_list.pdf)
+
+***status()***
+
+```javascript
+notify.status();
+```
+
+***revoke()***
+
+```javascript
+notify.revoke();
+```
