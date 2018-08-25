@@ -17,7 +17,7 @@
 ## Installation
 
 Installation is simple. It can be installed from NPM from github:
-```sh
+```npm
 $ npm install https://github.com/albertoanggi/js-line-notify
 ```
 
@@ -26,4 +26,11 @@ $ npm install https://github.com/albertoanggi/js-line-notify
 [https://notify-bot.line.me/my/](https://notify-bot.line.me/my/)
 
 ## Usage
+Initialization
 
+```javascript
+const LineNotify = require("./src/client");
+
+const ACCESS_TOKEN = "TOKEN_HERE!";
+const notify = new LineNotify(`${ACCESS_TOKEN}`);
+```
