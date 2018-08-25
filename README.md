@@ -18,7 +18,8 @@
 
 Installation is simple. It can be installed from NPM from github:
 ```npm
-$ npm install https://github.com/albertoanggi/js-line-notify (Coming soon)
+$ git clone https://github.com/albertoanggi/js-line-notify
+$ npm install
 ```
 
 ## Generate LINE Notify Token
