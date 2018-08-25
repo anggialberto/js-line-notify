@@ -8,7 +8,7 @@
 
 ## Installation
 
-Installation is simple. It can be installed from git using the following command after open Termux:
+Installation is simple. It can be installed from NPM from github:
 ```sh
 $ npm install https://github.com/albertoanggi/js-line-notify
 ```
