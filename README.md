@@ -6,6 +6,14 @@
 
 ----
 
+## Requirement
+
+* Node.js v8.11.4
+* NPM v6.4.0
+* request
+* request-promise
+* fs
+
 ## Installation
 
 Installation is simple. It can be installed from NPM from github:
