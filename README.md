@@ -5,3 +5,10 @@
 *Simple API LINE Notify*
 
 ----
+
+## Installation
+
+Installation is simple. It can be installed from git using the following command after open Termux:
+```sh
+$ npm install https://github.com/albertoanggi/js-line-notify
+```
