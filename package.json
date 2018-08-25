@@ -1,0 +1,26 @@
+{
+  "name": "line-notify-api",
+  "version": "1.0.0",
+  "description": "Javascript Line Notify",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertoanggi/js-line-notify.git"
+  },
+  "keywords": [
+    "LINE",
+    "API",
+    "notify"
+  ],
+  "author": "Anggi Alberto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertoanggi/js-line-notify/issues"
+  },
+  "homepage": "https://github.com/albertoanggi/js-line-notify#readme"
+}
